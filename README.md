@@ -12,7 +12,7 @@ Within **cellData**:
  *   **Data**: image data for cultured cells with ER labeling
  *   **PSF**: experimental PSFs for 20ms and 2ms exposure time
     
-Within ./cellData/Data:
+Within **./cellData/Data**:
 *    **20ms**: cell data with 20ms exposure
 *   **2ms_ts**: time series image data with 2ms exposure
     
