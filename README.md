@@ -5,8 +5,8 @@ The dataset is uploading to a public data repository now. The link and the DOI w
 The image data is organized for the figures in the paper Characterization, Comparison, and Optimization of Lattice Light Sheets (https://doi.org/10.1101/2022.07.30.502108):
 
 Within a figure folder:
-* **xzPSF.tif**: xz PSF of the light sheet for the figure
-* **cellData**: folder contains the experimental data
+*    **xzPSF.tif**: xz PSF of the light sheet for the figure
+*    **cellData**: folder contains the experimental data
     
 Within **cellData**:
  *   **Data**: image data for cultured cells with ER labeling
@@ -34,7 +34,7 @@ Within **./cellData/Data/20ms/gaussian_weighted/matlab_decon/1_debug (or 3_debug
 
 Within **./cellData/Data/2ms_ts**:
 *    tif, csv, json, txt, sqlite3 files are the cell image data and meta data with 2ms exposure; there are 100 time points.
-*    gaussian_weighted: data with 1d smoothed enveloped weights with gaussian smoothing (the intermediate images are not included).
+*    **gaussian_weighted**: data with 1d smoothed enveloped weights with gaussian smoothing (the intermediate images are not included).
     
 Within **./cellData/Data/2ms_ts/gaussian_weighted/matlab_decon**:
 *    tif files are deconvolution results for given iterations (optimal number of iterations determined with Fourier Shell Correlation), in skewed space.
