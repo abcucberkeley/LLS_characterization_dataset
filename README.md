@@ -1,6 +1,6 @@
 # LLS_characterization_dataset
 
-The datasets have been uploaded to the publich data repository [Dryad](https://datadryad.org/) now. The image data for all light sheets are splitted into three datasets due to the size limit. The DOI links are 
+The image data for all light sheets in the paper has been uploaded to the publich data repository [Dryad](https://datadryad.org/) now. The image data are splitted into three datasets due to the size limit. The DOI links  for the three datasets are 
 * [https://doi.org/10.6078/D1VT6K](https://doi.org/10.6078/D1VT6K)
 * [https://doi.org/10.6078/D1MB09](https://doi.org/10.6078/D1MB09)
 * [https://doi.org/10.6078/D1GM7G](https://doi.org/10.6078/D1GM7G)
