@@ -1,6 +1,10 @@
 # LLS_characterization_dataset
 
-The dataset is uploading to a public data repository now. The link and the DOI will be provided here once the uploading is done. 
+The datasets have been uploaded to the publich data repository dryad now. The image data for all light sheets are splitted into three datasets due to the size limit. The DOI links are 
+* [https://doi.org/10.6078/D1VT6K](https://doi.org/10.6078/D1VT6K)
+* [https://doi.org/10.6078/D1MB09](https://doi.org/10.6078/D1MB09)
+* [https://doi.org/10.6078/D1GM7G](https://doi.org/10.6078/D1GM7G)
+
 
 The image data is organized for the figures in the paper Characterization, Comparison, and Optimization of Lattice Light Sheets (https://doi.org/10.1101/2022.07.30.502108):
 
