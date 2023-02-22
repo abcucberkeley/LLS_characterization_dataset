@@ -1,12 +1,14 @@
-# LLS_characterization_dataset
+# LLS characterization dataset
 
-The image data for all light sheets in the paper has been uploaded to the publich data repository [Dryad](https://datadryad.org/) now. The image data are splitted into three datasets due to the size limit. The DOI links  for the three datasets are 
+The image data is organized for the figures in the paper **Characterization, Comparison, and Optimization of Lattice Light Sheets** (https://doi.org/10.1101/2022.07.30.502108):
+
+The image data for all light sheets in the paper has been uploaded to the publich data repository [Dryad](https://datadryad.org/) now. The image data is splitted into three datasets due to the size limit. The DOI links for the three datasets are 
 * [https://doi.org/10.6078/D1VT6K](https://doi.org/10.6078/D1VT6K)
 * [https://doi.org/10.6078/D1MB09](https://doi.org/10.6078/D1MB09)
 * [https://doi.org/10.6078/D1GM7G](https://doi.org/10.6078/D1GM7G)
 
 
-The image data is organized for the figures in the paper Characterization, Comparison, and Optimization of Lattice Light Sheets (https://doi.org/10.1101/2022.07.30.502108):
+For each light sheet figure folder, the data is organized as: 
 
 Within a figure folder:
 *    **xzPSF.tif**: xz PSF of the light sheet for the figure
